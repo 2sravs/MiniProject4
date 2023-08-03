@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\MiniProject-4\MiniProject-4\bin\Debug\MiniProject-4.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\MiniProject-4\MiniProject-4\bin\Debug\MiniProject-4.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\MiniProject-4\MiniProject-4\bin\Debug\MiniProject-4.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\MiniProject-4\MiniProject-4\obj\Debug\MiniProject-4.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\MiniProject-4\MiniProject-4\obj\Debug\MiniProject-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\MiniProject-4\MiniProject-4\obj\Debug\MiniProject-4.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\MiniProject-4\MiniProject-4\obj\Debug\MiniProject-4.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\MiniProject-4\MiniProject-4\obj\Debug\MiniProject-4.pdb
